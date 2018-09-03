@@ -1,0 +1,12 @@
+E:\ASP.net\ASP.Net_Core_MVC\Project\PhoneBook\PhoneBook\bin\Debug\netcoreapp2.0\PhoneBook.deps.json
+E:\ASP.net\ASP.Net_Core_MVC\Project\PhoneBook\PhoneBook\bin\Debug\netcoreapp2.0\PhoneBook.runtimeconfig.json
+E:\ASP.net\ASP.Net_Core_MVC\Project\PhoneBook\PhoneBook\bin\Debug\netcoreapp2.0\PhoneBook.runtimeconfig.dev.json
+E:\ASP.net\ASP.Net_Core_MVC\Project\PhoneBook\PhoneBook\bin\Debug\netcoreapp2.0\PhoneBook.dll
+E:\ASP.net\ASP.Net_Core_MVC\Project\PhoneBook\PhoneBook\bin\Debug\netcoreapp2.0\PhoneBook.pdb
+E:\ASP.net\ASP.Net_Core_MVC\Project\PhoneBook\PhoneBook\obj\Debug\netcoreapp2.0\PhoneBook.csprojResolveAssemblyReference.cache
+E:\ASP.net\ASP.Net_Core_MVC\Project\PhoneBook\PhoneBook\obj\Debug\netcoreapp2.0\PhoneBook.csproj.CoreCompileInputs.cache
+E:\ASP.net\ASP.Net_Core_MVC\Project\PhoneBook\PhoneBook\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+E:\ASP.net\ASP.Net_Core_MVC\Project\PhoneBook\PhoneBook\obj\Debug\netcoreapp2.0\PhoneBook.AssemblyInfoInputs.cache
+E:\ASP.net\ASP.Net_Core_MVC\Project\PhoneBook\PhoneBook\obj\Debug\netcoreapp2.0\PhoneBook.AssemblyInfo.cs
+E:\ASP.net\ASP.Net_Core_MVC\Project\PhoneBook\PhoneBook\obj\Debug\netcoreapp2.0\PhoneBook.dll
+E:\ASP.net\ASP.Net_Core_MVC\Project\PhoneBook\PhoneBook\obj\Debug\netcoreapp2.0\PhoneBook.pdb
